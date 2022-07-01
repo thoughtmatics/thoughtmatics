@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @thoughtmatics
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Webmatixx
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently learning Github
+- 💞️ I’m looking to collaborate on anything?
+- 📫 How to reach me 99neter@gmail.com
 
 <!---
 thoughtmatics/thoughtmatics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
